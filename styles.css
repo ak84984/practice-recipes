@@ -19,8 +19,31 @@
 }
 
 .chili_picture {
-    margin: 0 auto;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
+.beef_picture {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.noodle_picture {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.recipe_title {
+    text-align: center;
+}
 
 
